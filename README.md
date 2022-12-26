@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Diego Moreno
 - 👀 I’m a Computer Science student at FIU.
 - 🌱 I’m currently learning Django
-- ✔ You can contact me at dmorenogiordanelli@gmail.com
+- ✔  You can contact me at dmorenogiordanelli@gmail.com
+- 🎈 I will gladly talk about private repositories on one on one meetings.
