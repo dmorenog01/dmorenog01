@@ -2,4 +2,4 @@
 - 👀 I’m a Computer Science student at FIU.
 - 🌱 I’m currently learning Django
 - ✔  You can contact me at dmorenogiordanelli@gmail.com
-- 🎈 I will gladly talk about private repositories on one on one meetings.
+- 🎈 I will happily talk about private repositories on one on one meetings.
