@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Diego Moreno
-- 👀 I’m a Computer Science student at FIU.
-- 🌱 I’m currently learning full-stack development with Javascript.
+- 👋 Hi, I’m Diego Moreno, and I’m a Computer Science student at FIU.
+- 👀 I’m currently learning full-stack and mobile development with Javascript and React.
 - ✔  You can contact me at dmorenogiordanelli@gmail.com
