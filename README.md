@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Diego Moreno, and I’m a Computer Science student at FIU.
+- 👋 Hi, I’m Diego Moreno, and I’m an Associate Software Engineer at HelixVM.
+- CS @ FIU.
 - 👀 I’m currently learning full-stack and mobile development with Javascript and React.
 - ✔  You can contact me at dmorenogiordanelli@gmail.com
